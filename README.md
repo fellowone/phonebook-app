@@ -29,9 +29,11 @@ This project demonstrates the use of the **Fetch API** and **asynchronous JavaSc
 ---
 
 ## **Project Structure**
-phonebook-app/
-│── index.html # Main HTML file
-│── style.css # Styling for the app
-│── script.js # JavaScript logic
-│── contacts.json # Local JSON file with mock data
-│── README.md # Project documentation
+
+    phonebook-app/
+    │── index.html        # Main HTML file
+    │── style.css         # Styling for the app
+    │── script.js         # JavaScript logic
+    │── contacts.json     # Local JSON file with mock data
+    │── README.md         # Project documentation
+
