@@ -6,8 +6,7 @@ This project demonstrates the use of the **Fetch API** and **asynchronous JavaSc
 ---
 
 ## **Live Demo**
-[https://your-username.github.io/phonebook-app/](https://your-username.github.io/phonebook-app/)
-
+[https://fellowone.github.io/phonebook-app/](https://fellowone.github.io/phonebook-app/)
 ---
 
 ## **Features**
